@@ -7,3 +7,9 @@ body{
 	font-family:comic sans;
 	font-size:1em;
 }
+a.hover{
+	font-size:2em;
+}
+a.active{
+color:black;
+}
